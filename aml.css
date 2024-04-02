@@ -1,0 +1,33 @@
+.service{
+   background-color: white;
+   text-align: center;
+}
+.one{
+    background-color: white;
+    display:inline-block;
+   width:20%;
+    text-align: center;
+}
+.two{
+    background-color: white;
+    display:inline-block;
+   width:20%;
+    text-align: center;
+}
+
+.three{
+   background-color: white;
+   display:inline-block;
+   width:20%;
+    text-align: center;
+}
+.four{
+    background-color: white;
+    display:inline-block;
+    width:20%;
+     text-align: center;
+ }
+i{
+    color:orangered;
+    background-color: white;
+}
